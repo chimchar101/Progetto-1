@@ -1,2 +1,2 @@
 # Progetto-1
-Progetto 1 per Academy C# - Gruppo: Simone Addesso, Andrea Fabbri, Carlo Condello
+Progetto 1 per Academy C# - Gruppo: Simone Addesso (@chimchar101), Andrea Fabbri (@gijntheplug), Carlo Condello (@carlocond)
